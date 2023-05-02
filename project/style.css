@@ -1,0 +1,68 @@
+
+body {
+  background-image: url('digital.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+background-size: cover;
+}
+
+h1{
+    color: lightblue;
+    font-size: 50px;
+    height: 55px;
+    width: 500px;
+    background: white;
+    border-width: 5px;
+    border-color: lightgray;
+    border-style: solid;
+    text-align: center;
+    margin-top: 40px;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+
+ }
+ h2{
+    color:lightblue;
+    font-size: 28px;
+padding: 7px;
+ }
+ p{
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ h3{
+    color: lightblue;
+    font-size: 22px;
+    padding-left: 5px;
+ }
+ input[ type="text"]{
+background: lightblue;
+color: blue;
+ }
+ input[ type="email"]{
+    background: lightblue;
+    color: blue;
+     }
+     input[ type="submit"]{
+        background: blue;
+        color: pink;
+         }
+         input[ type="reset"]{
+            background: blue;
+            color: pink;
+             }
+             textarea{
+                background: lightblue;
+                color: blue;
+                font-size: 20px;
+                 }
+div{
+    color: pink;
+    font-size: 18px;
+}
+select{
+    color: blue;
+    font-size: 15px;
+}
